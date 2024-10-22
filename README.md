@@ -12,6 +12,9 @@ Uma aplicação Spring Boot que gerencia informações sobre funcionários, proj
 **Pré-requisitos:**
 * JDK 11+
 * Maven ou Gradle
+* Spring Boot Extension Pack
+* Extension Pack for java
+* Thunder Client
 
 
 **Estrutura do Projeto:**
